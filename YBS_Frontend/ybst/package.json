@@ -1,0 +1,40 @@
+{
+  "name": "ybst",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.1",
+    "@next/font": "^13.2.1",
+    "axios": "^1.3.4",
+    "class-variance-authority": "^0.4.0",
+    "classnames": "^2.3.2",
+    "cohere": "^1.1.1",
+    "cohere-ai": "^5.1.0",
+    "daisyui": "^2.51.1",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.2.1",
+    "firebase": "^9.17.1",
+    "lottie-react": "^2.4.0",
+    "mime": "^3.0.0",
+    "next": "13.2.1",
+    "nft.storage": "^7.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-dropdown": "^1.11.0",
+    "react-intersection-observer": "^9.4.3",
+    "rippleui": "^1.9.0",
+    "typewriter-effect": "^2.19.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}
